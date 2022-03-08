@@ -1,0 +1,10 @@
+name: 'Trigger Remote Workflow'
+description: 'This action triggers a workflow in another repository '
+author: 'Convictional'
+branding:
+  icon: 'arrow-right'
+  color: 'blue'
+inputs:
+  user:
+    description: "The owner of the repository where the workflow is contained."
+    required: true
