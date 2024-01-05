@@ -1,7 +1,8 @@
 repo_name: AJ-7885/test_GH-Action-trigger-remote-workflow
 report_id: 94e409ceeecba6c967f55031ca6fec26
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-12T13:14:29+00:00'
+timestamp: '2024-01-05T08:48:31+00:00'
 requested_by: AJ-7885
 provider: github
 branch: main
@@ -15,4 +16,5 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/AJ-7885/test_GH-Action-trigger-remote-workflow
   detection_source: Repo Metadata
